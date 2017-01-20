@@ -1,0 +1,8 @@
+1、Go程序是通过package来组织的,只有package名称为main的
+包可以包含main函数
+2、一个可执行程序有且仅有一个main包
+3、通过import关键字来进行常量的定义
+4、通过const关键字来进行常量的定义
+5、函数体外部使用var关键字进行全局变量的声明与赋值
+6、通过type关键字进行结构(struct)与接口(interface)声明
+7、通过func关键字来进行函数的声明
