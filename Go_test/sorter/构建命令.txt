@@ -1,0 +1,11 @@
+sorterÎÄ¼þ¼ÐÏÂ
+go build algorithm/qsort
+go build algorithm/bubblesort
+go test algorithm/qsort
+go test algorithm/bubblesort
+
+go install algorithm/qsort
+go install algorithm/bubblesort
+
+go build sorter
+go install sorter
